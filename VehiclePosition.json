@@ -1,0 +1,3793 @@
+{
+  "header": {
+    "timestamp": "1522051851", 
+    "gtfsRealtimeVersion": "1.0", 
+    "incrementality": "FULL_DATASET"
+  }, 
+  "entity": [
+    {
+      "id": "1522051851_1401", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.770015716552734, 
+          "bearing": 0.0, 
+          "longitude": -104.98503112792969
+        }, 
+        "vehicle": {
+          "id": "1401", 
+          "label": "1401"
+        }, 
+        "timestamp": "1522051825"
+      }
+    }, 
+    {
+      "id": "1522051851_1516", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.77021789550781, 
+          "bearing": 0.0, 
+          "longitude": -104.98481750488281
+        }, 
+        "vehicle": {
+          "id": "1516", 
+          "label": "1516"
+        }, 
+        "timestamp": "1522051807"
+      }
+    }, 
+    {
+      "id": "1522051851_1517", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.7711181640625, 
+          "bearing": 0.0, 
+          "longitude": -104.98429870605469
+        }, 
+        "vehicle": {
+          "id": "1517", 
+          "label": "1517"
+        }, 
+        "timestamp": "1522051832"
+      }
+    }, 
+    {
+      "id": "1522051851_1523", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.76988220214844, 
+          "bearing": 0.0, 
+          "longitude": -104.98442077636719
+        }, 
+        "vehicle": {
+          "id": "1523", 
+          "label": "1523"
+        }, 
+        "timestamp": "1522051825"
+      }
+    }, 
+    {
+      "id": "1522051851_1524", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.73813247680664, 
+          "bearing": 102.0, 
+          "longitude": -104.82373046875
+        }, 
+        "vehicle": {
+          "id": "1524", 
+          "label": "1524"
+        }, 
+        "timestamp": "1522050901"
+      }
+    }, 
+    {
+      "id": "1522051851_1533", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.737918853759766, 
+          "bearing": 0.0, 
+          "longitude": -104.82366943359375
+        }, 
+        "vehicle": {
+          "id": "1533", 
+          "label": "1533"
+        }, 
+        "timestamp": "1522050842"
+      }
+    }, 
+    {
+      "id": "1522051851_1534", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.737884521484375, 
+          "bearing": 0.0, 
+          "longitude": -104.8235855102539
+        }, 
+        "vehicle": {
+          "id": "1534", 
+          "label": "1534"
+        }, 
+        "timestamp": "1522051806"
+      }
+    }, 
+    {
+      "id": "1522051851_1537", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.76996612548828, 
+          "bearing": 0.0, 
+          "longitude": -104.98443603515625
+        }, 
+        "vehicle": {
+          "id": "1537", 
+          "label": "1537"
+        }, 
+        "timestamp": "1522051829"
+      }
+    }, 
+    {
+      "id": "1522051851_1539", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.77031707763672, 
+          "bearing": 0.0, 
+          "longitude": -104.98477935791016
+        }, 
+        "vehicle": {
+          "id": "1539", 
+          "label": "1539"
+        }, 
+        "timestamp": "1522051776"
+      }
+    }, 
+    {
+      "id": "1522051851_1543", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.77003479003906, 
+          "bearing": 0.0, 
+          "longitude": -104.9844970703125
+        }, 
+        "vehicle": {
+          "id": "1543", 
+          "label": "1543"
+        }, 
+        "timestamp": "1522051847"
+      }
+    }, 
+    {
+      "id": "1522051851_1544", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.770198822021484, 
+          "bearing": 0.0, 
+          "longitude": -104.98564910888672
+        }, 
+        "vehicle": {
+          "id": "1544", 
+          "label": "1544"
+        }, 
+        "timestamp": "1522051836"
+      }
+    }, 
+    {
+      "id": "1522051851_1546", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.77009963989258, 
+          "bearing": 0.0, 
+          "longitude": -104.98436737060547
+        }, 
+        "vehicle": {
+          "id": "1546", 
+          "label": "1546"
+        }, 
+        "timestamp": "1522051819"
+      }
+    }, 
+    {
+      "id": "1522051851_1547", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.769981384277344, 
+          "bearing": 0.0, 
+          "longitude": -104.98432922363281
+        }, 
+        "vehicle": {
+          "id": "1547", 
+          "label": "1547"
+        }, 
+        "timestamp": "1522051825"
+      }
+    }, 
+    {
+      "id": "1522051851_1548", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.770198822021484, 
+          "bearing": 0.0, 
+          "longitude": -104.98463439941406
+        }, 
+        "vehicle": {
+          "id": "1548", 
+          "label": "1548"
+        }, 
+        "timestamp": "1522051801"
+      }
+    }, 
+    {
+      "id": "1522051851_1549", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.77016830444336, 
+          "bearing": 0.0, 
+          "longitude": -104.98483276367188
+        }, 
+        "vehicle": {
+          "id": "1549", 
+          "label": "1549"
+        }, 
+        "timestamp": "1522051802"
+      }
+    }, 
+    {
+      "id": "1522051851_1552", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.76914978027344, 
+          "bearing": 0.0, 
+          "longitude": -104.98600006103516
+        }, 
+        "vehicle": {
+          "id": "1552", 
+          "label": "1552"
+        }, 
+        "timestamp": "1522050293"
+      }
+    }, 
+    {
+      "id": "1522051851_1677", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.76963424682617, 
+          "bearing": 118.0, 
+          "longitude": -104.98548126220703
+        }, 
+        "vehicle": {
+          "id": "1677", 
+          "label": "1677"
+        }, 
+        "timestamp": "1522051766"
+      }
+    }, 
+    {
+      "id": "1522051851_1683", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.769901275634766, 
+          "bearing": 0.0, 
+          "longitude": -104.98504638671875
+        }, 
+        "vehicle": {
+          "id": "1683", 
+          "label": "1683"
+        }, 
+        "timestamp": "1522051617"
+      }
+    }, 
+    {
+      "id": "1522051851_1801", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.77024841308594, 
+          "bearing": 0.0, 
+          "longitude": -104.9844970703125
+        }, 
+        "vehicle": {
+          "id": "1801", 
+          "label": "1801"
+        }, 
+        "timestamp": "1522051840"
+      }
+    }, 
+    {
+      "id": "1522051851_1802", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.770050048828125, 
+          "bearing": 0.0, 
+          "longitude": -104.98421478271484
+        }, 
+        "vehicle": {
+          "id": "1802", 
+          "label": "1802"
+        }, 
+        "timestamp": "1522051427"
+      }
+    }, 
+    {
+      "id": "1522051851_1804", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.77040100097656, 
+          "bearing": 0.0, 
+          "longitude": -104.9847183227539
+        }, 
+        "vehicle": {
+          "id": "1804", 
+          "label": "1804"
+        }, 
+        "timestamp": "1522051829"
+      }
+    }, 
+    {
+      "id": "1522051851_1805", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.770050048828125, 
+          "bearing": 0.0, 
+          "longitude": -104.98410034179688
+        }, 
+        "vehicle": {
+          "id": "1805", 
+          "label": "1805"
+        }, 
+        "timestamp": "1522051833"
+      }
+    }, 
+    {
+      "id": "1522051851_1808", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.770450592041016, 
+          "bearing": 0.0, 
+          "longitude": -104.984619140625
+        }, 
+        "vehicle": {
+          "id": "1808", 
+          "label": "1808"
+        }, 
+        "timestamp": "1522051835"
+      }
+    }, 
+    {
+      "id": "1522051851_1809", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.77009963989258, 
+          "bearing": 0.0, 
+          "longitude": -104.98438262939453
+        }, 
+        "vehicle": {
+          "id": "1809", 
+          "label": "1809"
+        }, 
+        "timestamp": "1522051823"
+      }
+    }, 
+    {
+      "id": "1522051851_1810", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.77031707763672, 
+          "bearing": 0.0, 
+          "longitude": -104.98446655273438
+        }, 
+        "vehicle": {
+          "id": "1810", 
+          "label": "1810"
+        }, 
+        "timestamp": "1522051791"
+      }
+    }, 
+    {
+      "id": "1522051851_1811", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.770198822021484, 
+          "bearing": 0.0, 
+          "longitude": -104.98426818847656
+        }, 
+        "vehicle": {
+          "id": "1811", 
+          "label": "1811"
+        }, 
+        "timestamp": "1522051819"
+      }
+    }, 
+    {
+      "id": "1522051851_1812", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.77028274536133, 
+          "bearing": 0.0, 
+          "longitude": -104.98443603515625
+        }, 
+        "vehicle": {
+          "id": "1812", 
+          "label": "1812"
+        }, 
+        "timestamp": "1522051843"
+      }
+    }, 
+    {
+      "id": "1522051851_2070", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.77069854736328, 
+          "bearing": 0.0, 
+          "longitude": -104.98481750488281
+        }, 
+        "vehicle": {
+          "id": "2070", 
+          "label": "2070"
+        }, 
+        "timestamp": "1522051825"
+      }
+    }, 
+    {
+      "id": "1522051851_2087", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.76988220214844, 
+          "bearing": 0.0, 
+          "longitude": -104.98456573486328
+        }, 
+        "vehicle": {
+          "id": "2087", 
+          "label": "2087"
+        }, 
+        "timestamp": "1522051827"
+      }
+    }, 
+    {
+      "id": "1522051851_2120", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.770999908447266, 
+          "bearing": 0.0, 
+          "longitude": -104.9845199584961
+        }, 
+        "vehicle": {
+          "id": "2120", 
+          "label": "2120"
+        }, 
+        "timestamp": "1522051821"
+      }
+    }, 
+    {
+      "id": "1522051851_2299", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.76995086669922, 
+          "bearing": 0.0, 
+          "longitude": -104.98468017578125
+        }, 
+        "vehicle": {
+          "id": "2299", 
+          "label": "2299"
+        }, 
+        "timestamp": "1522051837"
+      }
+    }, 
+    {
+      "id": "1522051851_3602", 
+      "vehicle": {
+        "position": {
+          "latitude": 40.01665115356445, 
+          "bearing": 0.0, 
+          "longitude": -105.24913024902344
+        }, 
+        "vehicle": {
+          "id": "3602", 
+          "label": "3602"
+        }, 
+        "timestamp": "1522050505"
+      }
+    }, 
+    {
+      "id": "1522051851_3613", 
+      "vehicle": {
+        "position": {
+          "latitude": 40.01435089111328, 
+          "bearing": 344.0, 
+          "longitude": -105.24064636230469
+        }, 
+        "vehicle": {
+          "id": "3613", 
+          "label": "3613"
+        }, 
+        "timestamp": "1522051819"
+      }
+    }, 
+    {
+      "id": "1522051851_3617", 
+      "vehicle": {
+        "position": {
+          "latitude": 40.01393127441406, 
+          "bearing": 350.0, 
+          "longitude": -105.2405014038086
+        }, 
+        "vehicle": {
+          "id": "3617", 
+          "label": "3617"
+        }, 
+        "timestamp": "1522051809"
+      }
+    }, 
+    {
+      "id": "1522051851_3620", 
+      "vehicle": {
+        "position": {
+          "latitude": 40.01673126220703, 
+          "bearing": 0.0, 
+          "longitude": -105.24911499023438
+        }, 
+        "vehicle": {
+          "id": "3620", 
+          "label": "3620"
+        }, 
+        "timestamp": "1522051825"
+      }
+    }, 
+    {
+      "id": "1522051851_3632", 
+      "vehicle": {
+        "position": {
+          "latitude": 40.01653289794922, 
+          "bearing": 0.0, 
+          "longitude": -105.24848175048828
+        }, 
+        "vehicle": {
+          "id": "3632", 
+          "label": "3632"
+        }, 
+        "timestamp": "1522051802"
+      }
+    }, 
+    {
+      "id": "1522051851_3642", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.77036666870117, 
+          "bearing": 0.0, 
+          "longitude": -104.98453521728516
+        }, 
+        "vehicle": {
+          "id": "3642", 
+          "label": "3642"
+        }, 
+        "timestamp": "1522051819"
+      }
+    }, 
+    {
+      "id": "1522051851_3643", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.77131652832031, 
+          "bearing": 0.0, 
+          "longitude": -104.98463439941406
+        }, 
+        "vehicle": {
+          "id": "3643", 
+          "label": "3643"
+        }, 
+        "timestamp": "1522051811"
+      }
+    }, 
+    {
+      "id": "1522051851_3644", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.77050018310547, 
+          "bearing": 0.0, 
+          "longitude": -104.9844970703125
+        }, 
+        "vehicle": {
+          "id": "3644", 
+          "label": "3644"
+        }, 
+        "timestamp": "1522051802"
+      }
+    }, 
+    {
+      "id": "1522051851_3645", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.77021789550781, 
+          "bearing": 0.0, 
+          "longitude": -104.98429870605469
+        }, 
+        "vehicle": {
+          "id": "3645", 
+          "label": "3645"
+        }, 
+        "timestamp": "1522051841"
+      }
+    }, 
+    {
+      "id": "1522051851_3646", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.770198822021484, 
+          "bearing": 0.0, 
+          "longitude": -104.98416900634766
+        }, 
+        "vehicle": {
+          "id": "3646", 
+          "label": "3646"
+        }, 
+        "timestamp": "1522051792"
+      }
+    }, 
+    {
+      "id": "1522051851_3647", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.770450592041016, 
+          "bearing": 0.0, 
+          "longitude": -104.98458099365234
+        }, 
+        "vehicle": {
+          "id": "3647", 
+          "label": "3647"
+        }, 
+        "timestamp": "1522051825"
+      }
+    }, 
+    {
+      "id": "1522051851_3648", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.770233154296875, 
+          "bearing": 0.0, 
+          "longitude": -104.98426818847656
+        }, 
+        "vehicle": {
+          "id": "3648", 
+          "label": "3648"
+        }, 
+        "timestamp": "1522051844"
+      }
+    }, 
+    {
+      "id": "1522051851_3650", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.770118713378906, 
+          "bearing": 0.0, 
+          "longitude": -104.98410034179688
+        }, 
+        "vehicle": {
+          "id": "3650", 
+          "label": "3650"
+        }, 
+        "timestamp": "1522051819"
+      }
+    }, 
+    {
+      "id": "1522051851_3651", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.77050018310547, 
+          "bearing": 0.0, 
+          "longitude": -104.98453521728516
+        }, 
+        "vehicle": {
+          "id": "3651", 
+          "label": "3651"
+        }, 
+        "timestamp": "1522051832"
+      }
+    }, 
+    {
+      "id": "1522051851_3652", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.77003479003906, 
+          "bearing": 0.0, 
+          "longitude": -104.98401641845703
+        }, 
+        "vehicle": {
+          "id": "3652", 
+          "label": "3652"
+        }, 
+        "timestamp": "1522051820"
+      }
+    }, 
+    {
+      "id": "1522051851_3653", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.771148681640625, 
+          "bearing": 0.0, 
+          "longitude": -104.98436737060547
+        }, 
+        "vehicle": {
+          "id": "3653", 
+          "label": "3653"
+        }, 
+        "timestamp": "1522051821"
+      }
+    }, 
+    {
+      "id": "1522051851_3654", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.77083206176758, 
+          "bearing": 0.0, 
+          "longitude": -104.98426818847656
+        }, 
+        "vehicle": {
+          "id": "3654", 
+          "label": "3654"
+        }, 
+        "timestamp": "1522051806"
+      }
+    }, 
+    {
+      "id": "1522051851_3655", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.770084381103516, 
+          "bearing": 0.0, 
+          "longitude": -104.98400115966797
+        }, 
+        "vehicle": {
+          "id": "3655", 
+          "label": "3655"
+        }, 
+        "timestamp": "1522051834"
+      }
+    }, 
+    {
+      "id": "1522051851_3656", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.77009963989258, 
+          "bearing": 0.0, 
+          "longitude": -104.98404693603516
+        }, 
+        "vehicle": {
+          "id": "3656", 
+          "label": "3656"
+        }, 
+        "timestamp": "1522051796"
+      }
+    }, 
+    {
+      "id": "1522051851_3657", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.77033233642578, 
+          "bearing": 0.0, 
+          "longitude": -104.98442077636719
+        }, 
+        "vehicle": {
+          "id": "3657", 
+          "label": "3657"
+        }, 
+        "timestamp": "1522051801"
+      }
+    }, 
+    {
+      "id": "1522051851_3658", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.7712516784668, 
+          "bearing": 126.0, 
+          "longitude": -104.98442077636719
+        }, 
+        "vehicle": {
+          "id": "3658", 
+          "label": "3658"
+        }, 
+        "timestamp": "1522050435"
+      }
+    }, 
+    {
+      "id": "1522051851_3659", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.770198822021484, 
+          "bearing": 142.0, 
+          "longitude": -104.98401641845703
+        }, 
+        "vehicle": {
+          "id": "3659", 
+          "label": "3659"
+        }, 
+        "timestamp": "1522051652"
+      }
+    }, 
+    {
+      "id": "1522051851_3729", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.770084381103516, 
+          "bearing": 0.0, 
+          "longitude": -104.98463439941406
+        }, 
+        "vehicle": {
+          "id": "3729", 
+          "label": "3729"
+        }, 
+        "timestamp": "1522051804"
+      }
+    }, 
+    {
+      "id": "1522051851_3731", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.770118713378906, 
+          "bearing": 0.0, 
+          "longitude": -104.984619140625
+        }, 
+        "vehicle": {
+          "id": "3731", 
+          "label": "3731"
+        }, 
+        "timestamp": "1522051808"
+      }
+    }, 
+    {
+      "id": "1522051851_3734", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.80270004272461, 
+          "bearing": 22.0, 
+          "longitude": -104.98393249511719
+        }, 
+        "vehicle": {
+          "id": "3734", 
+          "label": "3734"
+        }, 
+        "timestamp": "1522051822"
+      }
+    }, 
+    {
+      "id": "1522051851_3735", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.77040100097656, 
+          "bearing": 0.0, 
+          "longitude": -104.98536682128906
+        }, 
+        "vehicle": {
+          "id": "3735", 
+          "label": "3735"
+        }, 
+        "timestamp": "1522051790"
+      }
+    }, 
+    {
+      "id": "1522051851_3737", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.77000045776367, 
+          "bearing": 0.0, 
+          "longitude": -104.98446655273438
+        }, 
+        "vehicle": {
+          "id": "3737", 
+          "label": "3737"
+        }, 
+        "timestamp": "1522051816"
+      }
+    }, 
+    {
+      "id": "1522051851_3739", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.77086639404297, 
+          "bearing": 0.0, 
+          "longitude": -104.9840316772461
+        }, 
+        "vehicle": {
+          "id": "3739", 
+          "label": "3739"
+        }, 
+        "timestamp": "1522051825"
+      }
+    }, 
+    {
+      "id": "1522051851_3742", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.77018356323242, 
+          "bearing": 0.0, 
+          "longitude": -104.98503112792969
+        }, 
+        "vehicle": {
+          "id": "3742", 
+          "label": "3742"
+        }, 
+        "timestamp": "1522051822"
+      }
+    }, 
+    {
+      "id": "1522051851_3943", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.811317443847656, 
+          "bearing": 0.0, 
+          "longitude": -104.98991394042969
+        }, 
+        "vehicle": {
+          "id": "3943", 
+          "label": "3943"
+        }, 
+        "timestamp": "1522051818"
+      }
+    }, 
+    {
+      "id": "1522051851_3946", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.81129837036133, 
+          "bearing": 0.0, 
+          "longitude": -104.99041748046875
+        }, 
+        "vehicle": {
+          "id": "3946", 
+          "label": "3946"
+        }, 
+        "timestamp": "1522051803"
+      }
+    }, 
+    {
+      "id": "1522051851_3947", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.81206512451172, 
+          "bearing": 0.0, 
+          "longitude": -104.98925018310547
+        }, 
+        "vehicle": {
+          "id": "3947", 
+          "label": "3947"
+        }, 
+        "timestamp": "1522051766"
+      }
+    }, 
+    {
+      "id": "1522051851_3961", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.811317443847656, 
+          "bearing": 0.0, 
+          "longitude": -104.99031829833984
+        }, 
+        "vehicle": {
+          "id": "3961", 
+          "label": "3961"
+        }, 
+        "timestamp": "1522051807"
+      }
+    }, 
+    {
+      "id": "1522051851_5007", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.66691589355469, 
+          "bearing": 314.0, 
+          "longitude": -105.01383209228516
+        }, 
+        "vehicle": {
+          "id": "5007", 
+          "label": "5007"
+        }, 
+        "timestamp": "1522051637"
+      }
+    }, 
+    {
+      "id": "1522051851_5011", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.667598724365234, 
+          "bearing": 328.0, 
+          "longitude": -105.01348114013672
+        }, 
+        "vehicle": {
+          "id": "5011", 
+          "label": "5011"
+        }, 
+        "timestamp": "1522051351"
+      }
+    }, 
+    {
+      "id": "1522051851_5023", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.7373161315918, 
+          "bearing": 7.0, 
+          "longitude": -104.82461547851562
+        }, 
+        "vehicle": {
+          "id": "5023", 
+          "label": "5023"
+        }, 
+        "timestamp": "1522051477"
+      }
+    }, 
+    {
+      "id": "1522051851_5032", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.81083297729492, 
+          "bearing": 348.0, 
+          "longitude": -104.94146728515625
+        }, 
+        "vehicle": {
+          "id": "5032", 
+          "label": "5032"
+        }, 
+        "timestamp": "1522051670"
+      }
+    }, 
+    {
+      "id": "1522051851_5042", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.81193161010742, 
+          "bearing": 234.0, 
+          "longitude": -104.9893798828125
+        }, 
+        "vehicle": {
+          "id": "5042", 
+          "label": "5042"
+        }, 
+        "timestamp": "1522051126"
+      }
+    }, 
+    {
+      "id": "1522051851_5047", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.8114013671875, 
+          "bearing": 81.0, 
+          "longitude": -104.99024963378906
+        }, 
+        "vehicle": {
+          "id": "5047", 
+          "label": "5047"
+        }, 
+        "timestamp": "1522051124"
+      }
+    }, 
+    {
+      "id": "1522051851_5056", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.81141662597656, 
+          "bearing": 0.0, 
+          "longitude": -104.98860168457031
+        }, 
+        "vehicle": {
+          "id": "5056", 
+          "label": "5056"
+        }, 
+        "timestamp": "1522051710"
+      }
+    }, 
+    {
+      "id": "1522051851_5061", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.81123352050781, 
+          "bearing": 0.0, 
+          "longitude": -104.99011993408203
+        }, 
+        "vehicle": {
+          "id": "5061", 
+          "label": "5061"
+        }, 
+        "timestamp": "1522051712"
+      }
+    }, 
+    {
+      "id": "1522051851_5062", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.81123352050781, 
+          "bearing": 0.0, 
+          "longitude": -104.98912048339844
+        }, 
+        "vehicle": {
+          "id": "5062", 
+          "label": "5062"
+        }, 
+        "timestamp": "1522051777"
+      }
+    }, 
+    {
+      "id": "1522051851_5063", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.811248779296875, 
+          "bearing": 0.0, 
+          "longitude": -104.98880004882812
+        }, 
+        "vehicle": {
+          "id": "5063", 
+          "label": "5063"
+        }, 
+        "timestamp": "1522051706"
+      }
+    }, 
+    {
+      "id": "1522051851_5066", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.811248779296875, 
+          "bearing": 0.0, 
+          "longitude": -104.9892807006836
+        }, 
+        "vehicle": {
+          "id": "5066", 
+          "label": "5066"
+        }, 
+        "timestamp": "1522051684"
+      }
+    }, 
+    {
+      "id": "1522051851_5069", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.81195068359375, 
+          "bearing": 0.0, 
+          "longitude": -104.9892349243164
+        }, 
+        "vehicle": {
+          "id": "5069", 
+          "label": "5069"
+        }, 
+        "timestamp": "1522051798"
+      }
+    }, 
+    {
+      "id": "1522051851_5072", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.811248779296875, 
+          "bearing": 0.0, 
+          "longitude": -104.98995208740234
+        }, 
+        "vehicle": {
+          "id": "5072", 
+          "label": "5072"
+        }, 
+        "timestamp": "1522051793"
+      }
+    }, 
+    {
+      "id": "1522051851_5078", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.81246566772461, 
+          "bearing": 0.0, 
+          "longitude": -104.99073028564453
+        }, 
+        "vehicle": {
+          "id": "5078", 
+          "label": "5078"
+        }, 
+        "timestamp": "1522051815"
+      }
+    }, 
+    {
+      "id": "1522051851_5079", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.811317443847656, 
+          "bearing": 0.0, 
+          "longitude": -104.98846435546875
+        }, 
+        "vehicle": {
+          "id": "5079", 
+          "label": "5079"
+        }, 
+        "timestamp": "1522051808"
+      }
+    }, 
+    {
+      "id": "1522051851_5083", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.812049865722656, 
+          "bearing": 293.0, 
+          "longitude": -104.9892349243164
+        }, 
+        "vehicle": {
+          "id": "5083", 
+          "label": "5083"
+        }, 
+        "timestamp": "1522051247"
+      }
+    }, 
+    {
+      "id": "1522051851_5085", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.81129837036133, 
+          "bearing": 0.0, 
+          "longitude": -104.9896011352539
+        }, 
+        "vehicle": {
+          "id": "5085", 
+          "label": "5085"
+        }, 
+        "timestamp": "1522051715"
+      }
+    }, 
+    {
+      "id": "1522051851_5099", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.81135177612305, 
+          "bearing": 187.0, 
+          "longitude": -104.94266510009766
+        }, 
+        "vehicle": {
+          "id": "5099", 
+          "label": "5099"
+        }, 
+        "timestamp": "1522051812"
+      }
+    }, 
+    {
+      "id": "1522051851_5129", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.66740036010742, 
+          "bearing": 189.0, 
+          "longitude": -105.013916015625
+        }, 
+        "vehicle": {
+          "id": "5129", 
+          "label": "5129"
+        }, 
+        "timestamp": "1522050060"
+      }
+    }, 
+    {
+      "id": "1522051851_5141", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.73853302001953, 
+          "bearing": 0.0, 
+          "longitude": -104.8230972290039
+        }, 
+        "vehicle": {
+          "id": "5141", 
+          "label": "5141"
+        }, 
+        "timestamp": "1522051795"
+      }
+    }, 
+    {
+      "id": "1522051851_5145", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.81129837036133, 
+          "bearing": 0.0, 
+          "longitude": -104.98909759521484
+        }, 
+        "vehicle": {
+          "id": "5145", 
+          "label": "5145"
+        }, 
+        "timestamp": "1522051679"
+      }
+    }, 
+    {
+      "id": "1522051851_5152", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.8112678527832, 
+          "bearing": 0.0, 
+          "longitude": -104.94286346435547
+        }, 
+        "vehicle": {
+          "id": "5152", 
+          "label": "5152"
+        }, 
+        "timestamp": "1522051549"
+      }
+    }, 
+    {
+      "id": "1522051851_5165", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.81141662597656, 
+          "bearing": 0.0, 
+          "longitude": -104.98989868164062
+        }, 
+        "vehicle": {
+          "id": "5165", 
+          "label": "5165"
+        }, 
+        "timestamp": "1522051601"
+      }
+    }, 
+    {
+      "id": "1522051851_5167", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.81145095825195, 
+          "bearing": 0.0, 
+          "longitude": -104.9892349243164
+        }, 
+        "vehicle": {
+          "id": "5167", 
+          "label": "5167"
+        }, 
+        "timestamp": "1522051808"
+      }
+    }, 
+    {
+      "id": "1522051851_5168", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.81145095825195, 
+          "bearing": 0.0, 
+          "longitude": -104.98843383789062
+        }, 
+        "vehicle": {
+          "id": "5168", 
+          "label": "5168"
+        }, 
+        "timestamp": "1522051808"
+      }
+    }, 
+    {
+      "id": "1522051851_5170", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.811431884765625, 
+          "bearing": 0.0, 
+          "longitude": -104.98957061767578
+        }, 
+        "vehicle": {
+          "id": "5170", 
+          "label": "5170"
+        }, 
+        "timestamp": "1522051778"
+      }
+    }, 
+    {
+      "id": "1522051851_5171", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.8114013671875, 
+          "bearing": 71.0, 
+          "longitude": -104.99008178710938
+        }, 
+        "vehicle": {
+          "id": "5171", 
+          "label": "5171"
+        }, 
+        "timestamp": "1522050153"
+      }
+    }, 
+    {
+      "id": "1522051851_5174", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.81145095825195, 
+          "bearing": 0.0, 
+          "longitude": -104.98941802978516
+        }, 
+        "vehicle": {
+          "id": "5174", 
+          "label": "5174"
+        }, 
+        "timestamp": "1522051825"
+      }
+    }, 
+    {
+      "id": "1522051851_5177", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.811134338378906, 
+          "bearing": 20.0, 
+          "longitude": -104.98863220214844
+        }, 
+        "vehicle": {
+          "id": "5177", 
+          "label": "5177"
+        }, 
+        "timestamp": "1522051679"
+      }
+    }, 
+    {
+      "id": "1522051851_5179", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.812049865722656, 
+          "bearing": 0.0, 
+          "longitude": -104.98925018310547
+        }, 
+        "vehicle": {
+          "id": "5179", 
+          "label": "5179"
+        }, 
+        "timestamp": "1522051806"
+      }
+    }, 
+    {
+      "id": "1522051851_5181", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.81135177612305, 
+          "bearing": 0.0, 
+          "longitude": -104.9896011352539
+        }, 
+        "vehicle": {
+          "id": "5181", 
+          "label": "5181"
+        }, 
+        "timestamp": "1522051740"
+      }
+    }, 
+    {
+      "id": "1522051851_5182", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.81133270263672, 
+          "bearing": 0.0, 
+          "longitude": -104.98861694335938
+        }, 
+        "vehicle": {
+          "id": "5182", 
+          "label": "5182"
+        }, 
+        "timestamp": "1522051806"
+      }
+    }, 
+    {
+      "id": "1522051851_5183", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.811317443847656, 
+          "bearing": 0.0, 
+          "longitude": -104.9889144897461
+        }, 
+        "vehicle": {
+          "id": "5183", 
+          "label": "5183"
+        }, 
+        "timestamp": "1522051790"
+      }
+    }, 
+    {
+      "id": "1522051851_5184", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.81135177612305, 
+          "bearing": 0.0, 
+          "longitude": -104.9897689819336
+        }, 
+        "vehicle": {
+          "id": "5184", 
+          "label": "5184"
+        }, 
+        "timestamp": "1522051806"
+      }
+    }, 
+    {
+      "id": "1522051851_5185", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.81133270263672, 
+          "bearing": 0.0, 
+          "longitude": -104.98843383789062
+        }, 
+        "vehicle": {
+          "id": "5185", 
+          "label": "5185"
+        }, 
+        "timestamp": "1522051713"
+      }
+    }, 
+    {
+      "id": "1522051851_5188", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.8120002746582, 
+          "bearing": 0.0, 
+          "longitude": -104.98919677734375
+        }, 
+        "vehicle": {
+          "id": "5188", 
+          "label": "5188"
+        }, 
+        "timestamp": "1522051815"
+      }
+    }, 
+    {
+      "id": "1522051851_5206", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.81195068359375, 
+          "bearing": 0.0, 
+          "longitude": -104.9892349243164
+        }, 
+        "vehicle": {
+          "id": "5206", 
+          "label": "5206"
+        }, 
+        "timestamp": "1522051810"
+      }
+    }, 
+    {
+      "id": "1522051851_5233", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.811134338378906, 
+          "bearing": 0.0, 
+          "longitude": -104.94241333007812
+        }, 
+        "vehicle": {
+          "id": "5233", 
+          "label": "5233"
+        }, 
+        "timestamp": "1522050211"
+      }
+    }, 
+    {
+      "id": "1522051851_5251", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.810916900634766, 
+          "bearing": 165.0, 
+          "longitude": -104.94249725341797
+        }, 
+        "vehicle": {
+          "id": "5251", 
+          "label": "5251"
+        }, 
+        "timestamp": "1522051191"
+      }
+    }, 
+    {
+      "id": "1522051851_6007", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.81156539916992, 
+          "bearing": 0.0, 
+          "longitude": -104.98968505859375
+        }, 
+        "vehicle": {
+          "id": "6007", 
+          "label": "6007"
+        }, 
+        "timestamp": "1522051744"
+      }
+    }, 
+    {
+      "id": "1522051851_6008", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.77090072631836, 
+          "bearing": 0.0, 
+          "longitude": -104.98484802246094
+        }, 
+        "vehicle": {
+          "id": "6008", 
+          "label": "6008"
+        }, 
+        "timestamp": "1522051844"
+      }
+    }, 
+    {
+      "id": "1522051851_6009", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.77068328857422, 
+          "bearing": 0.0, 
+          "longitude": -104.98419952392578
+        }, 
+        "vehicle": {
+          "id": "6009", 
+          "label": "6009"
+        }, 
+        "timestamp": "1522051839"
+      }
+    }, 
+    {
+      "id": "1522051851_6011", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.76973342895508, 
+          "bearing": 0.0, 
+          "longitude": -104.98438262939453
+        }, 
+        "vehicle": {
+          "id": "6011", 
+          "label": "6011"
+        }, 
+        "timestamp": "1522051821"
+      }
+    }, 
+    {
+      "id": "1522051851_6013", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.769432067871094, 
+          "bearing": 0.0, 
+          "longitude": -104.98626708984375
+        }, 
+        "vehicle": {
+          "id": "6013", 
+          "label": "6013"
+        }, 
+        "timestamp": "1522050883"
+      }
+    }, 
+    {
+      "id": "1522051851_6015", 
+      "vehicle": {
+        "timestamp": "1522051800", 
+        "stopId": "33963", 
+        "vehicle": {
+          "id": "6015", 
+          "label": "6015"
+        }, 
+        "currentStatus": "STOPPED_AT", 
+        "position": {
+          "latitude": 39.73753356933594, 
+          "bearing": 102.0, 
+          "longitude": -105.1202163696289
+        }, 
+        "trip": {
+          "directionId": 0, 
+          "tripId": "111677941", 
+          "scheduleRelationship": "SCHEDULED", 
+          "routeId": "16"
+        }
+      }
+    }, 
+    {
+      "id": "1522051851_6019", 
+      "vehicle": {
+        "timestamp": "1522051831", 
+        "stopId": "14986", 
+        "vehicle": {
+          "id": "6019", 
+          "label": "6019"
+        }, 
+        "currentStatus": "IN_TRANSIT_TO", 
+        "position": {
+          "latitude": 39.70033264160156, 
+          "bearing": 85.0, 
+          "longitude": -104.98773193359375
+        }, 
+        "trip": {
+          "directionId": 0, 
+          "tripId": "111669138", 
+          "scheduleRelationship": "SCHEDULED", 
+          "routeId": "0"
+        }
+      }
+    }, 
+    {
+      "id": "1522051851_6022", 
+      "vehicle": {
+        "timestamp": "1522051821", 
+        "stopId": "22268", 
+        "vehicle": {
+          "id": "6022", 
+          "label": "6022"
+        }, 
+        "currentStatus": "IN_TRANSIT_TO", 
+        "position": {
+          "latitude": 39.65931701660156, 
+          "bearing": 184.0, 
+          "longitude": -104.98770141601562
+        }, 
+        "trip": {
+          "directionId": 1, 
+          "tripId": "111669205", 
+          "scheduleRelationship": "SCHEDULED", 
+          "routeId": "0"
+        }
+      }
+    }, 
+    {
+      "id": "1522051851_6024", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.77013397216797, 
+          "bearing": 0.0, 
+          "longitude": -104.98529815673828
+        }, 
+        "vehicle": {
+          "id": "6024", 
+          "label": "6024"
+        }, 
+        "timestamp": "1522051821"
+      }
+    }, 
+    {
+      "id": "1522051851_6025", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.76981735229492, 
+          "bearing": 0.0, 
+          "longitude": -104.98442077636719
+        }, 
+        "vehicle": {
+          "id": "6025", 
+          "label": "6025"
+        }, 
+        "timestamp": "1522051827"
+      }
+    }, 
+    {
+      "id": "1522051851_6026", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.76993179321289, 
+          "bearing": 0.0, 
+          "longitude": -104.98463439941406
+        }, 
+        "vehicle": {
+          "id": "6026", 
+          "label": "6026"
+        }, 
+        "timestamp": "1522051835"
+      }
+    }, 
+    {
+      "id": "1522051851_6029", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.77054977416992, 
+          "bearing": 0.0, 
+          "longitude": -104.9854507446289
+        }, 
+        "vehicle": {
+          "id": "6029", 
+          "label": "6029"
+        }, 
+        "timestamp": "1522051845"
+      }
+    }, 
+    {
+      "id": "1522051851_6030", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.77090072631836, 
+          "bearing": 0.0, 
+          "longitude": -104.98493194580078
+        }, 
+        "vehicle": {
+          "id": "6030", 
+          "label": "6030"
+        }, 
+        "timestamp": "1522051815"
+      }
+    }, 
+    {
+      "id": "1522051851_6034", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.76995086669922, 
+          "bearing": 0.0, 
+          "longitude": -104.98477935791016
+        }, 
+        "vehicle": {
+          "id": "6034", 
+          "label": "6034"
+        }, 
+        "timestamp": "1522051777"
+      }
+    }, 
+    {
+      "id": "1522051851_6035", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.770198822021484, 
+          "bearing": 0.0, 
+          "longitude": -104.9849853515625
+        }, 
+        "vehicle": {
+          "id": "6035", 
+          "label": "6035"
+        }, 
+        "timestamp": "1522051828"
+      }
+    }, 
+    {
+      "id": "1522051851_6037", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.77028274536133, 
+          "bearing": 0.0, 
+          "longitude": -104.98521423339844
+        }, 
+        "vehicle": {
+          "id": "6037", 
+          "label": "6037"
+        }, 
+        "timestamp": "1522051810"
+      }
+    }, 
+    {
+      "id": "1522051851_6038", 
+      "vehicle": {
+        "timestamp": "1522051807", 
+        "stopId": "34614", 
+        "vehicle": {
+          "id": "6038", 
+          "label": "6038"
+        }, 
+        "currentStatus": "IN_TRANSIT_TO", 
+        "position": {
+          "latitude": 39.73833465576172, 
+          "bearing": 94.0, 
+          "longitude": -105.02189636230469
+        }, 
+        "trip": {
+          "directionId": 0, 
+          "tripId": "111677942", 
+          "scheduleRelationship": "SCHEDULED", 
+          "routeId": "16"
+        }
+      }
+    }, 
+    {
+      "id": "1522051851_6039", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.769798278808594, 
+          "bearing": 0.0, 
+          "longitude": -104.9843978881836
+        }, 
+        "vehicle": {
+          "id": "6039", 
+          "label": "6039"
+        }, 
+        "timestamp": "1522051828"
+      }
+    }, 
+    {
+      "id": "1522051851_6040", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.77090072631836, 
+          "bearing": 0.0, 
+          "longitude": -104.98470306396484
+        }, 
+        "vehicle": {
+          "id": "6040", 
+          "label": "6040"
+        }, 
+        "timestamp": "1522051806"
+      }
+    }, 
+    {
+      "id": "1522051851_6041", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.77003479003906, 
+          "bearing": 0.0, 
+          "longitude": -104.98463439941406
+        }, 
+        "vehicle": {
+          "id": "6041", 
+          "label": "6041"
+        }, 
+        "timestamp": "1522051816"
+      }
+    }, 
+    {
+      "id": "1522051851_6043", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.76969909667969, 
+          "bearing": 0.0, 
+          "longitude": -104.98436737060547
+        }, 
+        "vehicle": {
+          "id": "6043", 
+          "label": "6043"
+        }, 
+        "timestamp": "1522051848"
+      }
+    }, 
+    {
+      "id": "1522051851_6045", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.77043151855469, 
+          "bearing": 0.0, 
+          "longitude": -104.98533630371094
+        }, 
+        "vehicle": {
+          "id": "6045", 
+          "label": "6045"
+        }, 
+        "timestamp": "1522051829"
+      }
+    }, 
+    {
+      "id": "1522051851_6046", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.77091598510742, 
+          "bearing": 0.0, 
+          "longitude": -104.98481750488281
+        }, 
+        "vehicle": {
+          "id": "6046", 
+          "label": "6046"
+        }, 
+        "timestamp": "1522051844"
+      }
+    }, 
+    {
+      "id": "1522051851_6048", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.769901275634766, 
+          "bearing": 313.0, 
+          "longitude": -104.98521423339844
+        }, 
+        "vehicle": {
+          "id": "6048", 
+          "label": "6048"
+        }, 
+        "timestamp": "1522051062"
+      }
+    }, 
+    {
+      "id": "1522051851_6049", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.77021789550781, 
+          "bearing": 0.0, 
+          "longitude": -104.98491668701172
+        }, 
+        "vehicle": {
+          "id": "6049", 
+          "label": "6049"
+        }, 
+        "timestamp": "1522051823"
+      }
+    }, 
+    {
+      "id": "1522051851_6050", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.770965576171875, 
+          "bearing": 0.0, 
+          "longitude": -104.9847640991211
+        }, 
+        "vehicle": {
+          "id": "6050", 
+          "label": "6050"
+        }, 
+        "timestamp": "1522051831"
+      }
+    }, 
+    {
+      "id": "1522051851_6053", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.66736602783203, 
+          "bearing": 180.0, 
+          "longitude": -105.01358032226562
+        }, 
+        "vehicle": {
+          "id": "6053", 
+          "label": "6053"
+        }, 
+        "timestamp": "1522051666"
+      }
+    }, 
+    {
+      "id": "1522051851_6055", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.811500549316406, 
+          "bearing": 241.0, 
+          "longitude": -104.98968505859375
+        }, 
+        "vehicle": {
+          "id": "6055", 
+          "label": "6055"
+        }, 
+        "timestamp": "1522050078"
+      }
+    }, 
+    {
+      "id": "1522051851_6056", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.811500549316406, 
+          "bearing": 0.0, 
+          "longitude": -104.98951721191406
+        }, 
+        "vehicle": {
+          "id": "6056", 
+          "label": "6056"
+        }, 
+        "timestamp": "1522051700"
+      }
+    }, 
+    {
+      "id": "1522051851_6059", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.769981384277344, 
+          "bearing": 0.0, 
+          "longitude": -104.98473358154297
+        }, 
+        "vehicle": {
+          "id": "6059", 
+          "label": "6059"
+        }, 
+        "timestamp": "1522051815"
+      }
+    }, 
+    {
+      "id": "1522051851_6064", 
+      "vehicle": {
+        "timestamp": "1522051837", 
+        "stopId": "12996", 
+        "vehicle": {
+          "id": "6064", 
+          "label": "6064"
+        }, 
+        "currentStatus": "IN_TRANSIT_TO", 
+        "position": {
+          "latitude": 39.74006652832031, 
+          "bearing": 89.0, 
+          "longitude": -104.89481353759766
+        }, 
+        "trip": {
+          "directionId": 0, 
+          "tripId": "111676552", 
+          "scheduleRelationship": "SCHEDULED", 
+          "routeId": "15"
+        }
+      }
+    }, 
+    {
+      "id": "1522051851_6070", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.737918853759766, 
+          "bearing": 88.0, 
+          "longitude": -104.82316589355469
+        }, 
+        "vehicle": {
+          "id": "6070", 
+          "label": "6070"
+        }, 
+        "timestamp": "1522051141"
+      }
+    }, 
+    {
+      "id": "1522051851_6075", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.73723220825195, 
+          "bearing": 65.0, 
+          "longitude": -104.8232650756836
+        }, 
+        "vehicle": {
+          "id": "6075", 
+          "label": "6075"
+        }, 
+        "timestamp": "1522050964"
+      }
+    }, 
+    {
+      "id": "1522051851_6090", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.7371826171875, 
+          "bearing": 17.0, 
+          "longitude": -104.82454681396484
+        }, 
+        "vehicle": {
+          "id": "6090", 
+          "label": "6090"
+        }, 
+        "timestamp": "1522051753"
+      }
+    }, 
+    {
+      "id": "1522051851_6095", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.73851776123047, 
+          "bearing": 0.0, 
+          "longitude": -104.8235855102539
+        }, 
+        "vehicle": {
+          "id": "6095", 
+          "label": "6095"
+        }, 
+        "timestamp": "1522051822"
+      }
+    }, 
+    {
+      "id": "1522051851_6097", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.737083435058594, 
+          "bearing": 0.0, 
+          "longitude": -104.82368469238281
+        }, 
+        "vehicle": {
+          "id": "6097", 
+          "label": "6097"
+        }, 
+        "timestamp": "1522051835"
+      }
+    }, 
+    {
+      "id": "1522051851_6100", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.73844909667969, 
+          "bearing": 0.0, 
+          "longitude": -104.82344818115234
+        }, 
+        "vehicle": {
+          "id": "6100", 
+          "label": "6100"
+        }, 
+        "timestamp": "1522051807"
+      }
+    }, 
+    {
+      "id": "1522051851_6101", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.769798278808594, 
+          "bearing": 314.0, 
+          "longitude": -104.98506927490234
+        }, 
+        "vehicle": {
+          "id": "6101", 
+          "label": "6101"
+        }, 
+        "timestamp": "1522050931"
+      }
+    }, 
+    {
+      "id": "1522051851_6116", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.77064895629883, 
+          "bearing": 0.0, 
+          "longitude": -104.98410034179688
+        }, 
+        "vehicle": {
+          "id": "6116", 
+          "label": "6116"
+        }, 
+        "timestamp": "1522051838"
+      }
+    }, 
+    {
+      "id": "1522051851_6120", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.769798278808594, 
+          "bearing": 315.0, 
+          "longitude": -104.9850845336914
+        }, 
+        "vehicle": {
+          "id": "6120", 
+          "label": "6120"
+        }, 
+        "timestamp": "1522051583"
+      }
+    }, 
+    {
+      "id": "1522051851_6121", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.77000045776367, 
+          "bearing": 0.0, 
+          "longitude": -104.9847183227539
+        }, 
+        "vehicle": {
+          "id": "6121", 
+          "label": "6121"
+        }, 
+        "timestamp": "1522051829"
+      }
+    }, 
+    {
+      "id": "1522051851_6122", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.769981384277344, 
+          "bearing": 0.0, 
+          "longitude": -104.98491668701172
+        }, 
+        "vehicle": {
+          "id": "6122", 
+          "label": "6122"
+        }, 
+        "timestamp": "1522051821"
+      }
+    }, 
+    {
+      "id": "1522051851_6124", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.770084381103516, 
+          "bearing": 0.0, 
+          "longitude": -104.98519897460938
+        }, 
+        "vehicle": {
+          "id": "6124", 
+          "label": "6124"
+        }, 
+        "timestamp": "1522051832"
+      }
+    }, 
+    {
+      "id": "1522051851_6132", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.66736602783203, 
+          "bearing": 0.0, 
+          "longitude": -105.01409912109375
+        }, 
+        "vehicle": {
+          "id": "6132", 
+          "label": "6132"
+        }, 
+        "timestamp": "1522051783"
+      }
+    }, 
+    {
+      "id": "1522051851_6136", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.66685104370117, 
+          "bearing": 0.0, 
+          "longitude": -105.01478576660156
+        }, 
+        "vehicle": {
+          "id": "6136", 
+          "label": "6136"
+        }, 
+        "timestamp": "1522051779"
+      }
+    }, 
+    {
+      "id": "1522051851_6147", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.667381286621094, 
+          "bearing": 268.0, 
+          "longitude": -105.01351928710938
+        }, 
+        "vehicle": {
+          "id": "6147", 
+          "label": "6147"
+        }, 
+        "timestamp": "1522051478"
+      }
+    }, 
+    {
+      "id": "1522051851_6154", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.66743469238281, 
+          "bearing": 226.0, 
+          "longitude": -105.01351928710938
+        }, 
+        "vehicle": {
+          "id": "6154", 
+          "label": "6154"
+        }, 
+        "timestamp": "1522050181"
+      }
+    }, 
+    {
+      "id": "1522051851_6160", 
+      "vehicle": {
+        "timestamp": "1522051821", 
+        "stopId": "26033", 
+        "vehicle": {
+          "id": "6160", 
+          "label": "6160"
+        }, 
+        "currentStatus": "IN_TRANSIT_TO", 
+        "position": {
+          "latitude": 39.792884826660156, 
+          "bearing": 215.0, 
+          "longitude": -105.08056640625
+        }, 
+        "trip": {
+          "directionId": 0, 
+          "tripId": "111686036", 
+          "scheduleRelationship": "SCHEDULED", 
+          "routeId": "76"
+        }
+      }
+    }, 
+    {
+      "id": "1522051851_6176", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.810550689697266, 
+          "bearing": 98.0, 
+          "longitude": -104.94129943847656
+        }, 
+        "vehicle": {
+          "id": "6176", 
+          "label": "6176"
+        }, 
+        "timestamp": "1522051688"
+      }
+    }, 
+    {
+      "id": "1522051851_6180", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.810516357421875, 
+          "bearing": 183.0, 
+          "longitude": -104.94246673583984
+        }, 
+        "vehicle": {
+          "id": "6180", 
+          "label": "6180"
+        }, 
+        "timestamp": "1522050847"
+      }
+    }, 
+    {
+      "id": "1522051851_6189", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.810665130615234, 
+          "bearing": 179.0, 
+          "longitude": -104.94255065917969
+        }, 
+        "vehicle": {
+          "id": "6189", 
+          "label": "6189"
+        }, 
+        "timestamp": "1522050258"
+      }
+    }, 
+    {
+      "id": "1522051851_6196", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.8115348815918, 
+          "bearing": 0.0, 
+          "longitude": -104.99006652832031
+        }, 
+        "vehicle": {
+          "id": "6196", 
+          "label": "6196"
+        }, 
+        "timestamp": "1522051836"
+      }
+    }, 
+    {
+      "id": "1522051851_6197", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.81155014038086, 
+          "bearing": 130.0, 
+          "longitude": -104.98991394042969
+        }, 
+        "vehicle": {
+          "id": "6197", 
+          "label": "6197"
+        }, 
+        "timestamp": "1522050153"
+      }
+    }, 
+    {
+      "id": "1522051851_6199", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.81151580810547, 
+          "bearing": 0.0, 
+          "longitude": -104.99015045166016
+        }, 
+        "vehicle": {
+          "id": "6199", 
+          "label": "6199"
+        }, 
+        "timestamp": "1522051773"
+      }
+    }, 
+    {
+      "id": "1522051851_6200", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.8115348815918, 
+          "bearing": 338.0, 
+          "longitude": -104.9898681640625
+        }, 
+        "vehicle": {
+          "id": "6200", 
+          "label": "6200"
+        }, 
+        "timestamp": "1522050104"
+      }
+    }, 
+    {
+      "id": "1522051851_6203", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.8116340637207, 
+          "bearing": 26.0, 
+          "longitude": -104.99036407470703
+        }, 
+        "vehicle": {
+          "id": "6203", 
+          "label": "6203"
+        }, 
+        "timestamp": "1522050375"
+      }
+    }, 
+    {
+      "id": "1522051851_6205", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.81161880493164, 
+          "bearing": 0.0, 
+          "longitude": -104.98971557617188
+        }, 
+        "vehicle": {
+          "id": "6205", 
+          "label": "6205"
+        }, 
+        "timestamp": "1522051734"
+      }
+    }, 
+    {
+      "id": "1522051851_6206", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.81156539916992, 
+          "bearing": 0.0, 
+          "longitude": -104.99021911621094
+        }, 
+        "vehicle": {
+          "id": "6206", 
+          "label": "6206"
+        }, 
+        "timestamp": "1522051829"
+      }
+    }, 
+    {
+      "id": "1522051851_6207", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.81155014038086, 
+          "bearing": 0.0, 
+          "longitude": -104.9903793334961
+        }, 
+        "vehicle": {
+          "id": "6207", 
+          "label": "6207"
+        }, 
+        "timestamp": "1522051786"
+      }
+    }, 
+    {
+      "id": "1522051851_6208", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.81156539916992, 
+          "bearing": 0.0, 
+          "longitude": -104.98934936523438
+        }, 
+        "vehicle": {
+          "id": "6208", 
+          "label": "6208"
+        }, 
+        "timestamp": "1522051813"
+      }
+    }, 
+    {
+      "id": "1522051851_6209", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.81161880493164, 
+          "bearing": 16.0, 
+          "longitude": -104.99003601074219
+        }, 
+        "vehicle": {
+          "id": "6209", 
+          "label": "6209"
+        }, 
+        "timestamp": "1522050492"
+      }
+    }, 
+    {
+      "id": "1522051851_6211", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.811668395996094, 
+          "bearing": 0.0, 
+          "longitude": -104.98970031738281
+        }, 
+        "vehicle": {
+          "id": "6211", 
+          "label": "6211"
+        }, 
+        "timestamp": "1522051808"
+      }
+    }, 
+    {
+      "id": "1522051851_6213", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.81159973144531, 
+          "bearing": 130.0, 
+          "longitude": -104.99018096923828
+        }, 
+        "vehicle": {
+          "id": "6213", 
+          "label": "6213"
+        }, 
+        "timestamp": "1522050444"
+      }
+    }, 
+    {
+      "id": "1522051851_6214", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.81121826171875, 
+          "bearing": 0.0, 
+          "longitude": -104.98958587646484
+        }, 
+        "vehicle": {
+          "id": "6214", 
+          "label": "6214"
+        }, 
+        "timestamp": "1522051829"
+      }
+    }, 
+    {
+      "id": "1522051851_6215", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.811649322509766, 
+          "bearing": 0.0, 
+          "longitude": -104.98954772949219
+        }, 
+        "vehicle": {
+          "id": "6215", 
+          "label": "6215"
+        }, 
+        "timestamp": "1522051798"
+      }
+    }, 
+    {
+      "id": "1522051851_6218", 
+      "vehicle": {
+        "position": {
+          "latitude": 40.01665115356445, 
+          "bearing": 0.0, 
+          "longitude": -105.24825286865234
+        }, 
+        "vehicle": {
+          "id": "6218", 
+          "label": "6218"
+        }, 
+        "timestamp": "1522050802"
+      }
+    }, 
+    {
+      "id": "1522051851_6230", 
+      "vehicle": {
+        "position": {
+          "latitude": 40.01638412475586, 
+          "bearing": 0.0, 
+          "longitude": -105.24915313720703
+        }, 
+        "vehicle": {
+          "id": "6230", 
+          "label": "6230"
+        }, 
+        "timestamp": "1522051093"
+      }
+    }, 
+    {
+      "id": "1522051851_6244", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.77024841308594, 
+          "bearing": 0.0, 
+          "longitude": -104.98538208007812
+        }, 
+        "vehicle": {
+          "id": "6244", 
+          "label": "6244"
+        }, 
+        "timestamp": "1522051827"
+      }
+    }, 
+    {
+      "id": "1522051851_6246", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.77021789550781, 
+          "bearing": 0.0, 
+          "longitude": -104.98509979248047
+        }, 
+        "vehicle": {
+          "id": "6246", 
+          "label": "6246"
+        }, 
+        "timestamp": "1522051810"
+      }
+    }, 
+    {
+      "id": "1522051851_6251", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.76940155029297, 
+          "bearing": 0.0, 
+          "longitude": -104.98600006103516
+        }, 
+        "vehicle": {
+          "id": "6251", 
+          "label": "6251"
+        }, 
+        "timestamp": "1522050275"
+      }
+    }, 
+    {
+      "id": "1522051851_6259", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.73714828491211, 
+          "bearing": 0.0, 
+          "longitude": -104.8232650756836
+        }, 
+        "vehicle": {
+          "id": "6259", 
+          "label": "6259"
+        }, 
+        "timestamp": "1522051820"
+      }
+    }, 
+    {
+      "id": "1522051851_6260", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.738651275634766, 
+          "bearing": 321.0, 
+          "longitude": -104.8227310180664
+        }, 
+        "vehicle": {
+          "id": "6260", 
+          "label": "6260"
+        }, 
+        "timestamp": "1522051367"
+      }
+    }, 
+    {
+      "id": "1522051851_6266", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.738033294677734, 
+          "bearing": 338.0, 
+          "longitude": -104.8221206665039
+        }, 
+        "vehicle": {
+          "id": "6266", 
+          "label": "6266"
+        }, 
+        "timestamp": "1522050636"
+      }
+    }, 
+    {
+      "id": "1522051851_6268", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.737117767333984, 
+          "bearing": 0.0, 
+          "longitude": -104.82388305664062
+        }, 
+        "vehicle": {
+          "id": "6268", 
+          "label": "6268"
+        }, 
+        "timestamp": "1522051831"
+      }
+    }, 
+    {
+      "id": "1522051851_6272", 
+      "vehicle": {
+        "timestamp": "1522051829", 
+        "stopId": "12848", 
+        "vehicle": {
+          "id": "6272", 
+          "label": "6272"
+        }, 
+        "currentStatus": "STOPPED_AT", 
+        "position": {
+          "latitude": 39.7403678894043, 
+          "bearing": 254.0, 
+          "longitude": -104.82315063476562
+        }, 
+        "trip": {
+          "directionId": 1, 
+          "tripId": "111676640", 
+          "scheduleRelationship": "SCHEDULED", 
+          "routeId": "15"
+        }
+      }
+    }, 
+    {
+      "id": "1522051851_6275", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.73801803588867, 
+          "bearing": 0.0, 
+          "longitude": -104.82340240478516
+        }, 
+        "vehicle": {
+          "id": "6275", 
+          "label": "6275"
+        }, 
+        "timestamp": "1522051831"
+      }
+    }, 
+    {
+      "id": "1522051851_6284", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.737998962402344, 
+          "bearing": 97.0, 
+          "longitude": -104.82353210449219
+        }, 
+        "vehicle": {
+          "id": "6284", 
+          "label": "6284"
+        }, 
+        "timestamp": "1522050725"
+      }
+    }, 
+    {
+      "id": "1522051851_6291", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.73798370361328, 
+          "bearing": 0.0, 
+          "longitude": -104.82308197021484
+        }, 
+        "vehicle": {
+          "id": "6291", 
+          "label": "6291"
+        }, 
+        "timestamp": "1522051613"
+      }
+    }, 
+    {
+      "id": "1522051851_6295", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.770381927490234, 
+          "bearing": 0.0, 
+          "longitude": -104.984619140625
+        }, 
+        "vehicle": {
+          "id": "6295", 
+          "label": "6295"
+        }, 
+        "timestamp": "1522051825"
+      }
+    }, 
+    {
+      "id": "1522051851_6296", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.76978302001953, 
+          "bearing": 0.0, 
+          "longitude": -104.9845962524414
+        }, 
+        "vehicle": {
+          "id": "6296", 
+          "label": "6296"
+        }, 
+        "timestamp": "1522051803"
+      }
+    }, 
+    {
+      "id": "1522051851_6298", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.771034240722656, 
+          "bearing": 0.0, 
+          "longitude": -104.9845962524414
+        }, 
+        "vehicle": {
+          "id": "6298", 
+          "label": "6298"
+        }, 
+        "timestamp": "1522051833"
+      }
+    }, 
+    {
+      "id": "1522051851_6305", 
+      "vehicle": {
+        "timestamp": "1522051811", 
+        "stopId": "17834", 
+        "vehicle": {
+          "id": "6305", 
+          "label": "6305"
+        }, 
+        "currentStatus": "IN_TRANSIT_TO", 
+        "position": {
+          "latitude": 39.75186538696289, 
+          "bearing": 313.0, 
+          "longitude": -104.99600219726562
+        }, 
+        "trip": {
+          "directionId": 1, 
+          "tripId": "111676711", 
+          "scheduleRelationship": "SCHEDULED", 
+          "routeId": "15"
+        }
+      }
+    }, 
+    {
+      "id": "1522051851_6309", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.736934661865234, 
+          "bearing": 0.0, 
+          "longitude": -104.82381439208984
+        }, 
+        "vehicle": {
+          "id": "6309", 
+          "label": "6309"
+        }, 
+        "timestamp": "1522051775"
+      }
+    }, 
+    {
+      "id": "1522051851_6310", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.73723220825195, 
+          "bearing": 118.0, 
+          "longitude": -104.82415008544922
+        }, 
+        "vehicle": {
+          "id": "6310", 
+          "label": "6310"
+        }, 
+        "timestamp": "1522050103"
+      }
+    }, 
+    {
+      "id": "1522051851_6312", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.738948822021484, 
+          "bearing": 241.0, 
+          "longitude": -104.82421875
+        }, 
+        "vehicle": {
+          "id": "6312", 
+          "label": "6312"
+        }, 
+        "timestamp": "1522051296"
+      }
+    }, 
+    {
+      "id": "1522051851_6313", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.73701858520508, 
+          "bearing": 0.0, 
+          "longitude": -104.82357025146484
+        }, 
+        "vehicle": {
+          "id": "6313", 
+          "label": "6313"
+        }, 
+        "timestamp": "1522050204"
+      }
+    }, 
+    {
+      "id": "1522051851_6315", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.769718170166016, 
+          "bearing": 107.0, 
+          "longitude": -104.98542022705078
+        }, 
+        "vehicle": {
+          "id": "6315", 
+          "label": "6315"
+        }, 
+        "timestamp": "1522051347"
+      }
+    }, 
+    {
+      "id": "1522051851_6317", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.77033233642578, 
+          "bearing": 171.0, 
+          "longitude": -104.98548126220703
+        }, 
+        "vehicle": {
+          "id": "6317", 
+          "label": "6317"
+        }, 
+        "timestamp": "1522050871"
+      }
+    }, 
+    {
+      "id": "1522051851_6318", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.77053451538086, 
+          "bearing": 0.0, 
+          "longitude": -104.98426818847656
+        }, 
+        "vehicle": {
+          "id": "6318", 
+          "label": "6318"
+        }, 
+        "timestamp": "1522051787"
+      }
+    }, 
+    {
+      "id": "1522051851_6319", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.770301818847656, 
+          "bearing": 0.0, 
+          "longitude": -104.98543548583984
+        }, 
+        "vehicle": {
+          "id": "6319", 
+          "label": "6319"
+        }, 
+        "timestamp": "1522051818"
+      }
+    }, 
+    {
+      "id": "1522051851_6322", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.77000045776367, 
+          "bearing": 0.0, 
+          "longitude": -104.9847640991211
+        }, 
+        "vehicle": {
+          "id": "6322", 
+          "label": "6322"
+        }, 
+        "timestamp": "1522051814"
+      }
+    }, 
+    {
+      "id": "1522051851_6323", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.771183013916016, 
+          "bearing": 0.0, 
+          "longitude": -104.98504638671875
+        }, 
+        "vehicle": {
+          "id": "6323", 
+          "label": "6323"
+        }, 
+        "timestamp": "1522051829"
+      }
+    }, 
+    {
+      "id": "1522051851_6324", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.76996612548828, 
+          "bearing": 169.0, 
+          "longitude": -104.98593139648438
+        }, 
+        "vehicle": {
+          "id": "6324", 
+          "label": "6324"
+        }, 
+        "timestamp": "1522050181"
+      }
+    }, 
+    {
+      "id": "1522051851_6328", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.77146530151367, 
+          "bearing": 229.0, 
+          "longitude": -104.98468017578125
+        }, 
+        "vehicle": {
+          "id": "6328", 
+          "label": "6328"
+        }, 
+        "timestamp": "1522051807"
+      }
+    }, 
+    {
+      "id": "1522051851_6329", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.77024841308594, 
+          "bearing": 151.0, 
+          "longitude": -104.98546600341797
+        }, 
+        "vehicle": {
+          "id": "6329", 
+          "label": "6329"
+        }, 
+        "timestamp": "1522050476"
+      }
+    }, 
+    {
+      "id": "1522051851_6332", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.770782470703125, 
+          "bearing": 0.0, 
+          "longitude": -104.98468017578125
+        }, 
+        "vehicle": {
+          "id": "6332", 
+          "label": "6332"
+        }, 
+        "timestamp": "1522051814"
+      }
+    }, 
+    {
+      "id": "1522051851_6334", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.76995086669922, 
+          "bearing": 178.0, 
+          "longitude": -104.98591613769531
+        }, 
+        "vehicle": {
+          "id": "6334", 
+          "label": "6334"
+        }, 
+        "timestamp": "1522050119"
+      }
+    }, 
+    {
+      "id": "1522051851_6335", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.76985168457031, 
+          "bearing": 0.0, 
+          "longitude": -104.98445129394531
+        }, 
+        "vehicle": {
+          "id": "6335", 
+          "label": "6335"
+        }, 
+        "timestamp": "1522051809"
+      }
+    }, 
+    {
+      "id": "1522051851_6336", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.77101516723633, 
+          "bearing": 0.0, 
+          "longitude": -104.9847183227539
+        }, 
+        "vehicle": {
+          "id": "6336", 
+          "label": "6336"
+        }, 
+        "timestamp": "1522051806"
+      }
+    }, 
+    {
+      "id": "1522051851_6337", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.77051544189453, 
+          "bearing": 0.0, 
+          "longitude": -104.98528289794922
+        }, 
+        "vehicle": {
+          "id": "6337", 
+          "label": "6337"
+        }, 
+        "timestamp": "1522051807"
+      }
+    }, 
+    {
+      "id": "1522051851_6339", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.770668029785156, 
+          "bearing": 0.0, 
+          "longitude": -104.98529815673828
+        }, 
+        "vehicle": {
+          "id": "6339", 
+          "label": "6339"
+        }, 
+        "timestamp": "1522051805"
+      }
+    }, 
+    {
+      "id": "1522051851_6342", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.811668395996094, 
+          "bearing": 79.0, 
+          "longitude": -104.98999786376953
+        }, 
+        "vehicle": {
+          "id": "6342", 
+          "label": "6342"
+        }, 
+        "timestamp": "1522050415"
+      }
+    }, 
+    {
+      "id": "1522051851_6345", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.81159973144531, 
+          "bearing": 0.0, 
+          "longitude": -104.9898681640625
+        }, 
+        "vehicle": {
+          "id": "6345", 
+          "label": "6345"
+        }, 
+        "timestamp": "1522051796"
+      }
+    }, 
+    {
+      "id": "1522051851_6347", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.811649322509766, 
+          "bearing": 0.0, 
+          "longitude": -104.9898681640625
+        }, 
+        "vehicle": {
+          "id": "6347", 
+          "label": "6347"
+        }, 
+        "timestamp": "1522051844"
+      }
+    }, 
+    {
+      "id": "1522051851_6348", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.811668395996094, 
+          "bearing": 0.0, 
+          "longitude": -104.9894027709961
+        }, 
+        "vehicle": {
+          "id": "6348", 
+          "label": "6348"
+        }, 
+        "timestamp": "1522051840"
+      }
+    }, 
+    {
+      "id": "1522051851_6349", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.81123352050781, 
+          "bearing": 0.0, 
+          "longitude": -104.9892807006836
+        }, 
+        "vehicle": {
+          "id": "6349", 
+          "label": "6349"
+        }, 
+        "timestamp": "1522051822"
+      }
+    }, 
+    {
+      "id": "1522051851_6350", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.811649322509766, 
+          "bearing": 0.0, 
+          "longitude": -104.99034881591797
+        }, 
+        "vehicle": {
+          "id": "6350", 
+          "label": "6350"
+        }, 
+        "timestamp": "1522051767"
+      }
+    }, 
+    {
+      "id": "1522051851_6351", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.81121826171875, 
+          "bearing": 0.0, 
+          "longitude": -104.98878479003906
+        }, 
+        "vehicle": {
+          "id": "6351", 
+          "label": "6351"
+        }, 
+        "timestamp": "1522051814"
+      }
+    }, 
+    {
+      "id": "1522051851_6352", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.811248779296875, 
+          "bearing": 0.0, 
+          "longitude": -104.98978424072266
+        }, 
+        "vehicle": {
+          "id": "6352", 
+          "label": "6352"
+        }, 
+        "timestamp": "1522051759"
+      }
+    }, 
+    {
+      "id": "1522051851_6353", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.81158447265625, 
+          "bearing": 0.0, 
+          "longitude": -104.98953247070312
+        }, 
+        "vehicle": {
+          "id": "6353", 
+          "label": "6353"
+        }, 
+        "timestamp": "1522051836"
+      }
+    }, 
+    {
+      "id": "1522051851_6355", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.81161880493164, 
+          "bearing": 80.0, 
+          "longitude": -104.99019622802734
+        }, 
+        "vehicle": {
+          "id": "6355", 
+          "label": "6355"
+        }, 
+        "timestamp": "1522050368"
+      }
+    }, 
+    {
+      "id": "1522051851_9301", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.73743438720703, 
+          "bearing": 0.0, 
+          "longitude": -104.8239974975586
+        }, 
+        "vehicle": {
+          "id": "9301", 
+          "label": "9301"
+        }, 
+        "timestamp": "1522051799"
+      }
+    }, 
+    {
+      "id": "1522051851_9322", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.77021789550781, 
+          "bearing": 0.0, 
+          "longitude": -104.98391723632812
+        }, 
+        "vehicle": {
+          "id": "9322", 
+          "label": "9322"
+        }, 
+        "timestamp": "1522051835"
+      }
+    }, 
+    {
+      "id": "1522051851_9323", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.770782470703125, 
+          "bearing": 0.0, 
+          "longitude": -104.98436737060547
+        }, 
+        "vehicle": {
+          "id": "9323", 
+          "label": "9323"
+        }, 
+        "timestamp": "1522051842"
+      }
+    }, 
+    {
+      "id": "1522051851_9328", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.77048110961914, 
+          "bearing": 0.0, 
+          "longitude": -104.98445129394531
+        }, 
+        "vehicle": {
+          "id": "9328", 
+          "label": "9328"
+        }, 
+        "timestamp": "1522051818"
+      }
+    }, 
+    {
+      "id": "1522051851_9329", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.770084381103516, 
+          "bearing": 0.0, 
+          "longitude": -104.98381805419922
+        }, 
+        "vehicle": {
+          "id": "9329", 
+          "label": "9329"
+        }, 
+        "timestamp": "1522051835"
+      }
+    }, 
+    {
+      "id": "1522051851_9333", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.77069854736328, 
+          "bearing": 0.0, 
+          "longitude": -104.98438262939453
+        }, 
+        "vehicle": {
+          "id": "9333", 
+          "label": "9333"
+        }, 
+        "timestamp": "1522051848"
+      }
+    }, 
+    {
+      "id": "1522051851_9334", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.770301818847656, 
+          "bearing": 0.0, 
+          "longitude": -104.98411560058594
+        }, 
+        "vehicle": {
+          "id": "9334", 
+          "label": "9334"
+        }, 
+        "timestamp": "1522051839"
+      }
+    }, 
+    {
+      "id": "1522051851_9336", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.77069854736328, 
+          "bearing": 0.0, 
+          "longitude": -104.98445129394531
+        }, 
+        "vehicle": {
+          "id": "9336", 
+          "label": "9336"
+        }, 
+        "timestamp": "1522051798"
+      }
+    }, 
+    {
+      "id": "1522051851_9337", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.77076721191406, 
+          "bearing": 0.0, 
+          "longitude": -104.9845199584961
+        }, 
+        "vehicle": {
+          "id": "9337", 
+          "label": "9337"
+        }, 
+        "timestamp": "1522051822"
+      }
+    }, 
+    {
+      "id": "1522051851_9338", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.77046585083008, 
+          "bearing": 0.0, 
+          "longitude": -104.98418426513672
+        }, 
+        "vehicle": {
+          "id": "9338", 
+          "label": "9338"
+        }, 
+        "timestamp": "1522051828"
+      }
+    }, 
+    {
+      "id": "1522051851_9339", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.770599365234375, 
+          "bearing": 0.0, 
+          "longitude": -104.98428344726562
+        }, 
+        "vehicle": {
+          "id": "9339", 
+          "label": "9339"
+        }, 
+        "timestamp": "1522051832"
+      }
+    }, 
+    {
+      "id": "1522051851_9341", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.770450592041016, 
+          "bearing": 0.0, 
+          "longitude": -104.98494720458984
+        }, 
+        "vehicle": {
+          "id": "9341", 
+          "label": "9341"
+        }, 
+        "timestamp": "1522051841"
+      }
+    }, 
+    {
+      "id": "1522051851_9342", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.77053451538086, 
+          "bearing": 181.0, 
+          "longitude": -104.98428344726562
+        }, 
+        "vehicle": {
+          "id": "9342", 
+          "label": "9342"
+        }, 
+        "timestamp": "1522050475"
+      }
+    }, 
+    {
+      "id": "1522051851_9343", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.770416259765625, 
+          "bearing": 0.0, 
+          "longitude": -104.9839859008789
+        }, 
+        "vehicle": {
+          "id": "9343", 
+          "label": "9343"
+        }, 
+        "timestamp": "1522051771"
+      }
+    }, 
+    {
+      "id": "1522051851_9344", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.77068328857422, 
+          "bearing": 0.0, 
+          "longitude": -104.98443603515625
+        }, 
+        "vehicle": {
+          "id": "9344", 
+          "label": "9344"
+        }, 
+        "timestamp": "1522051835"
+      }
+    }, 
+    {
+      "id": "1522051851_9346", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.7706184387207, 
+          "bearing": 0.0, 
+          "longitude": -104.9840316772461
+        }, 
+        "vehicle": {
+          "id": "9346", 
+          "label": "9346"
+        }, 
+        "timestamp": "1522051845"
+      }
+    }, 
+    {
+      "id": "1522051851_9347", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.770450592041016, 
+          "bearing": 0.0, 
+          "longitude": -104.98383331298828
+        }, 
+        "vehicle": {
+          "id": "9347", 
+          "label": "9347"
+        }, 
+        "timestamp": "1522051838"
+      }
+    }, 
+    {
+      "id": "1522051851_9349", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.77069854736328, 
+          "bearing": 0.0, 
+          "longitude": -104.98401641845703
+        }, 
+        "vehicle": {
+          "id": "9349", 
+          "label": "9349"
+        }, 
+        "timestamp": "1522051848"
+      }
+    }, 
+    {
+      "id": "1522051851_9350", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.77043151855469, 
+          "bearing": 0.0, 
+          "longitude": -104.98384857177734
+        }, 
+        "vehicle": {
+          "id": "9350", 
+          "label": "9350"
+        }, 
+        "timestamp": "1522051844"
+      }
+    }, 
+    {
+      "id": "1522051851_9351", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.77058410644531, 
+          "bearing": 0.0, 
+          "longitude": -104.9843978881836
+        }, 
+        "vehicle": {
+          "id": "9351", 
+          "label": "9351"
+        }, 
+        "timestamp": "1522051827"
+      }
+    }, 
+    {
+      "id": "1522051851_9352", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.77048110961914, 
+          "bearing": 0.0, 
+          "longitude": -104.98400115966797
+        }, 
+        "vehicle": {
+          "id": "9352", 
+          "label": "9352"
+        }, 
+        "timestamp": "1522051820"
+      }
+    }, 
+    {
+      "id": "1522051851_9353", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.770118713378906, 
+          "bearing": 0.0, 
+          "longitude": -104.98393249511719
+        }, 
+        "vehicle": {
+          "id": "9353", 
+          "label": "9353"
+        }, 
+        "timestamp": "1522051827"
+      }
+    }, 
+    {
+      "id": "1522051851_9354", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.77051544189453, 
+          "bearing": 0.0, 
+          "longitude": -104.98455047607422
+        }, 
+        "vehicle": {
+          "id": "9354", 
+          "label": "9354"
+        }, 
+        "timestamp": "1522051842"
+      }
+    }, 
+    {
+      "id": "1522051851_9356", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.77024841308594, 
+          "bearing": 0.0, 
+          "longitude": -104.98463439941406
+        }, 
+        "vehicle": {
+          "id": "9356", 
+          "label": "9356"
+        }, 
+        "timestamp": "1522051838"
+      }
+    }, 
+    {
+      "id": "1522051851_9357", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.77050018310547, 
+          "bearing": 0.0, 
+          "longitude": -104.98426818847656
+        }, 
+        "vehicle": {
+          "id": "9357", 
+          "label": "9357"
+        }, 
+        "timestamp": "1522051822"
+      }
+    }, 
+    {
+      "id": "1522051851_9358", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.770381927490234, 
+          "bearing": 0.0, 
+          "longitude": -104.98377990722656
+        }, 
+        "vehicle": {
+          "id": "9358", 
+          "label": "9358"
+        }, 
+        "timestamp": "1522051826"
+      }
+    }, 
+    {
+      "id": "1522051851_9360", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.77031707763672, 
+          "bearing": 0.0, 
+          "longitude": -104.98374938964844
+        }, 
+        "vehicle": {
+          "id": "9360", 
+          "label": "9360"
+        }, 
+        "timestamp": "1522051848"
+      }
+    }, 
+    {
+      "id": "1522051851_9361", 
+      "vehicle": {
+        "position": {
+          "latitude": 0.0, 
+          "bearing": 0.0, 
+          "longitude": 0.0
+        }, 
+        "vehicle": {
+          "id": "9361", 
+          "label": "9361"
+        }, 
+        "timestamp": "1522050499"
+      }
+    }, 
+    {
+      "id": "1522051851_9363", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.77048110961914, 
+          "bearing": 0.0, 
+          "longitude": -104.98448181152344
+        }, 
+        "vehicle": {
+          "id": "9363", 
+          "label": "9363"
+        }, 
+        "timestamp": "1522051806"
+      }
+    }, 
+    {
+      "id": "1522051851_9364", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.7706184387207, 
+          "bearing": 0.0, 
+          "longitude": -104.98432922363281
+        }, 
+        "vehicle": {
+          "id": "9364", 
+          "label": "9364"
+        }, 
+        "timestamp": "1522051834"
+      }
+    }, 
+    {
+      "id": "1522051851_9365", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.77028274536133, 
+          "bearing": 0.0, 
+          "longitude": -104.9840316772461
+        }, 
+        "vehicle": {
+          "id": "9365", 
+          "label": "9365"
+        }, 
+        "timestamp": "1522051831"
+      }
+    }, 
+    {
+      "id": "1522051851_9390", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.77088165283203, 
+          "bearing": 0.0, 
+          "longitude": -104.98428344726562
+        }, 
+        "vehicle": {
+          "id": "9390", 
+          "label": "9390"
+        }, 
+        "timestamp": "1522051807"
+      }
+    }, 
+    {
+      "id": "1522051851_9393", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.77048110961914, 
+          "bearing": 0.0, 
+          "longitude": -104.98381805419922
+        }, 
+        "vehicle": {
+          "id": "9393", 
+          "label": "9393"
+        }, 
+        "timestamp": "1522051836"
+      }
+    }, 
+    {
+      "id": "1522051851_9398", 
+      "vehicle": {
+        "position": {
+          "latitude": 39.77000045776367, 
+          "bearing": 162.0, 
+          "longitude": -104.9837646484375
+        }, 
+        "vehicle": {
+          "id": "9398", 
+          "label": "9398"
+        }, 
+        "timestamp": "1522051046"
+      }
+    }
+  ]
+}
