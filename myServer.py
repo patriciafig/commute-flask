@@ -8,8 +8,7 @@ app = Flask(__name__)
 
 # export PATH=/Users/patricia/Documents/Work/Workspace/iOS/swift-protobuf/swift-protobuf:$PATH
 
-#@app.route("/vehiclePosition")
-@app.route("https://commute-app.herokuapp.com/vehiclePosition")
+@app.route("/vehiclePosition")
 def getVehiclePosition():
     vehilceFile = 'VehiclePosition.json'
     with open(vehilceFile) as data_file:
